@@ -1,10 +1,15 @@
 # turkeycitiesdistricts
 
  bolge: Region name
+ 
  id: District number, sorted by alphabetical order
+ 
  il: City name
+ 
  ilce: District name
+ 
  plaka: License registration plate city location number
+ 
  nviid: ID number of district in NVI database (Turkish Central Registration Administration System's Civil Registry Database)
  
  Further read:
